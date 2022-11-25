@@ -1,4 +1,4 @@
-# ICDyM
+# Introducción a la Ciencia de Datos y sus Metodologías.
 Proyectos de la asignatura Introducción a la Ciencia de Datos y sus metodologías de la Maestría en Ciencia de datos. 
 
 La primera parte de la asignatura fue impartida por el Dr. Juan Martín Preciado Rodríguez, donde se estudió la metodología CRISP-DM, disponible [aquí](https://github.com/melrepa/ICDyM/tree/main/Parte%201).
