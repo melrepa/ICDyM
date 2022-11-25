@@ -1,0 +1,1 @@
+Imágenes del proceso llevado a cabo. Estas imágenes aparecen en el [Reporte Técnico](https://github.com/melrepa/ICDyM/blob/main/Parte%202/Proyecto_Final_ICDM_Melissa_Reyes_Paz.pdf) y en el [Jupyter Notebook](https://github.com/melrepa/ICDyM/blob/main/Parte%202/ProyectoFinal_ICDM_MRP.ipynb) del proyecto. 
